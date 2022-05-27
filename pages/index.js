@@ -5,6 +5,8 @@ export default function Home() {
       <Head>
         <title>index</title>
       </Head>
+
+      <p className="text-9xl">haseeb</p>
     </>
   );
 }
